@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently improving my Engineer skills (mostly in python with django)
 - 👯 I’m looking to collaborate on blockchain projects
 - 💬 Ask me about anything 😄
-- 📫 How to reach me: https://www.linkedin.com/in/jeremy-karsenty-316748127/
+- 📫 How to reach me: https://www.linkedin.com/in/jeremy-karsenty
 
 <!--
 - 🤔 I’m looking for help with ...
