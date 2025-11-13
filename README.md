@@ -65,8 +65,9 @@ Formateur reconnu, je transmets les meilleures pratiques pour transformer les do
 
 ## Contact
 
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> : *https://www.linkedin.com/in/jeremy-karsenty*  
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> : `jkarsenty`
+![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&logo=linkedin&logoColor=white) : *https://www.linkedin.com/in/jeremy-karsenty*  
+
+![Github](https://img.shields.io/badge/github%20-%23121011.svg?&logo=github&logoColor=white") : `jkarsenty`
 
 ---
 
